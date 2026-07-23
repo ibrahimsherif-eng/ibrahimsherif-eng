@@ -56,16 +56,16 @@ Desktop application for visualizing and comparing AI search algorithms.
 
 📧 **Email:** ibrahim.sherif.eng@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ibrahim-sherif-eng/
+💼 **LinkedIn:** [ibrahim-sherif-eng](https://www.linkedin.com/in/ibrahim-sherif-eng/)
 
-💻 **GitHub:** https://github.com/ibrahimsherif-eng
+💻 **GitHub:** [ibrahimsherif-eng](https://github.com/ibrahimsherif-eng)
 
-📊 **Kaggle:** https://www.kaggle.com/ibrahimsheriff12
+📊 **Kaggle:** [ibrahimsheriff12](https://www.kaggle.com/ibrahimsheriff12)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimsherif-eng&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsherif-eng&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
