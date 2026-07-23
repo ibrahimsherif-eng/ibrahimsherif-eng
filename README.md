@@ -39,16 +39,23 @@ I'm passionate about Machine Learning and Artificial Intelligence. I enjoy build
 ## 📌 Featured Projects
 
 ### 🏠 House Price Prediction
+End-to-end Machine Learning system for predicting house prices using **Scikit-learn, FastAPI, React, and TypeScript**.
 
-Machine Learning model for predicting house prices with FastAPI backend and interactive frontend.
+🔗 Repository: https://github.com/ibrahimsherif-eng/house-price-prediction
+
+---
 
 ### 🚔 San Francisco Crime Classification
+Large-scale crime classification pipeline using **Scikit-learn, PCA, TensorFlow, and Optuna**.
 
-Crime classification system using PCA, Optuna, and Scikit-Learn.
+🔗 Repository: https://github.com/ibrahimsherif-eng/san-francisco-crime-classification
 
-### 🧠 AI Algorithms Racing Visualizer
+---
 
-Desktop application for visualizing and comparing AI search algorithms.
+### 🧠 AI Search Algorithm Racing Visualizer
+Interactive PyQt5 desktop application for visualizing and comparing classical AI search algorithms.
+
+🔗 Repository: https://github.com/ibrahimsherif-eng/ai-search-algorithm-racing-visualizer
 
 ---
 
