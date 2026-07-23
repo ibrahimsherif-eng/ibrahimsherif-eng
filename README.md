@@ -18,14 +18,31 @@ I'm passionate about Machine Learning and Artificial Intelligence. I enjoy build
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,fastapi" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI
 </p>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib,jupyter" />
-</p> 
-
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="40"/> Scikit-Learn
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="40"/> Pandas
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="40"/> NumPy
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="40"/> Matplotlib
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="40"/> Jupyter
+</p>
 ---
 
 ## 📌 Featured Projects
