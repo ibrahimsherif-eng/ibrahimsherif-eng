@@ -18,27 +18,13 @@ I'm passionate about Machine Learning and Artificial Intelligence. I enjoy build
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,fastapi" />
+</p>
 
-- Python
-- C++
-- SQL
-
-**Machine Learning**
-
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-
-**Frameworks & Tools**
-
-- FastAPI
-- PyQt5
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib,jupyter" />
+</p> 
 
 ---
 
