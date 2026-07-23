@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ibrahim Sherif Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Ibrahim Sherif
 
 ### Machine Learning Engineer | AI Engineering Student
