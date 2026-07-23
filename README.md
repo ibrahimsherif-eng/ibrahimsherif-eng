@@ -61,11 +61,3 @@ Desktop application for visualizing and comparing AI search algorithms.
 💻 **GitHub:** [ibrahimsherif-eng](https://github.com/ibrahimsherif-eng)
 
 📊 **Kaggle:** [ibrahimsheriff12](https://www.kaggle.com/ibrahimsheriff12)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsherif-eng&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
