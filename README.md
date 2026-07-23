@@ -18,32 +18,21 @@ I'm passionate about Machine Learning and Artificial Intelligence. I enjoy build
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="40"/> Scikit-Learn
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="40"/> Pandas
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="40"/> NumPy
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="40"/> Matplotlib
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="40"/> Jupyter
-</p>
----
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📌 Featured Projects
 
